@@ -1,0 +1,26 @@
+* 626551e (HEAD -> main, origin/main) docs: Add changelog
+*   c54cac9 Merge pull request #2 from Ashritagogula/feature/another-feature
+|\  
+| * 5ed6112 (origin/feature/another-feature) feat: Add test feature
+* |   cf52581 Merge pull request #1 from Ashritagogula/feature/new-feature
+|\ \  
+| * | 07f7e4a (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| | | * 7bf1504 (feature/another-feature) Bad commit
+| | |/  
+| | * 52b373e (tag: v1.1.0, tag: v1.0.0) docs: Update README
+| |/  
+|/|   
+* | a586d5d feat: Add new feature
+* | 6e4a11b docs: Add FAQ section
+|/  
+*   219b202 Merged branch 'conflict-simulator' into main after resolving all conflicts
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   1402e2e merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
